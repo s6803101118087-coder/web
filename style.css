@@ -1,0 +1,19 @@
+body {
+    user-select: none; 
+    -webkit-user-select: none;
+    -ms-user-select: none; 
+    cursor: default;
+}
+
+.container {
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+    margin: 50vh;
+}
+
+.p2 {
+    color: red;
+    font-size: 20px;
+    margin-top: 13px;
+}
