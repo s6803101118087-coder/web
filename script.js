@@ -1,3 +1,3 @@
-document.getElementById("p1").textContent = "Chat is this tuff?";
+document.getElementById("p1").textContent = "Is this a good rizz?";
 document.getElementById("p2").textContent = "BTW"
-document.getElementById("p3").textContent = "คุณดูจะติดเกมไปนะ ☝️🤓"
+document.getElementById("p3").textContent = "คุณมึงเหม็นมาก โปรดไปอาบนํ้า"
