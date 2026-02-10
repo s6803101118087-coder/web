@@ -1,4 +1,5 @@
-document.getElementById("p1").textContent = "U STINKY";
+document.getElementById("p1").textContent = "GO study plz";
 document.getElementById("p2").textContent = "BTW"
-document.getElementById("p3").textContent = "Go take a shower already, why u still reading. หี"
+document.getElementById("p3").textContent = "คุณมึงเหม็นมาก โปรดไปอาบนํ้า"
+
 
